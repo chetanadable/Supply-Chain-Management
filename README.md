@@ -1,4 +1,5 @@
 📦 Supply Chain Management Dashboard | Tableau Project
+
 📌 Project Overview
 
 This project presents an interactive Supply Chain Management Dashboard built using Tableau to analyze sales performance, inventory levels, regional trends, and purchase methods.
