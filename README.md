@@ -84,7 +84,6 @@ The dashboard helps stakeholders make data-driven decisions by providing clear K
 ![Supply Chain Dashboard](https://github.com/chetanadable/Supply-Chain-Management/blob/main/Tableau%20Dashboard.png)
 
 
-
 🚀 Business Insights
 
 ✔ Debit card purchases contribute the highest sales
