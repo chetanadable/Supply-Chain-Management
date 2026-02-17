@@ -1,4 +1,4 @@
-📦 Supply Chain Management Dashboard | Tableau Project
+📦 Supply Chain Management Dashboard | Excel | Power BI | Tableau Project
 
 📌 Project Overview
 
@@ -74,6 +74,7 @@ Sales Growth Trend (2019–2023)
 
 (Add screenshot in your repo and link it here)
 
+![Supply Chain Dashboard](https://github.com/chetanadable/Supply-Chain-Management/blob/main/Excel%20Dashboard.png)
 ![Supply Chain Dashboard](https://github.com/chetanadable/Supply-Chain-Management/blob/main/Tableau%20Dashboard.png)
 
 🚀 Business Insights
