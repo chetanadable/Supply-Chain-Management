@@ -79,9 +79,14 @@ The dashboard helps stakeholders make data-driven decisions by providing clear K
 
 ![Supply Chain Dashboard](https://github.com/chetanadable/Supply-Chain-Management/blob/main/Excel%20Dashboard.png)
 
+
+
 ![Supply Chain Dashboard](https://github.com/chetanadable/Supply-Chain-Management/blob/main/Power%20BI%20Dashboard.png)
 
+
+
 ![Supply Chain Dashboard](https://github.com/chetanadable/Supply-Chain-Management/blob/main/Tableau%20Dashboard.png)
+
 
 
 🚀 Business Insights
